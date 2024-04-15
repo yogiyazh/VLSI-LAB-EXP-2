@@ -155,6 +155,7 @@ OUTPUT WAVEFORM
 ![318376560-6e4f30fb-8da4-4f13-9096-d7aa9559baac](https://github.com/yogiyazh/VLSI-LAB-EXP-2/assets/159939338/87a6dfcb-7dc8-44d8-b2a0-b5f1413ed501)
 
 RESULT
+
  To simulate and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Xilinx ISE is completed.
 
 
